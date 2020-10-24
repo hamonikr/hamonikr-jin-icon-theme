@@ -1,0 +1,14 @@
+Source: hamonikr-jin-icon-theme
+Section: x11
+Priority: optional
+Maintainer: Kevin Kim <root@hamonikr.org>
+Build-Depends: debhelper (>= 11)
+Vcs-Git: https://github.com/hamonikr/hamonikr-jin-icon-theme
+Vcs-Browser: https://github.com/hamonikr/hamonikr-jin-icon-theme
+Standards-Version: 4.3.0
+
+Package: hamonikr-jin-icon-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: HamoniKR Jin Icon Theme
+ This package include the HamoniKR Jin icon theme. 
