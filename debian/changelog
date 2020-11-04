@@ -1,3 +1,23 @@
+hamonikr-jin-icon-theme (1.1.3) focal; urgency=medium
+
+  * update places icons
+  * update apps > palimpset.sgv (system setting > disks icon)
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 26 Oct 2020 10:58:49 +0900
+
+hamonikr-jin-icon-theme (1.1.2) focal; urgency=medium
+
+  * update device icons size
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 26 Oct 2020 10:58:49 +0900
+
+hamonikr-jin-icon-theme (1.1.1) focal; urgency=medium
+
+  * changed icon folder name
+  * update new device icons
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 26 Oct 2020 10:21:37 +0900
+
 hamonikr-jin-icon-theme (1.1.0) focal; urgency=medium
 
   * Added cursor icons
