@@ -1,3 +1,9 @@
+hamonikr-jin-icon-theme (1.1.4) focal; urgency=medium
+
+  * added and fixed icons
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 16 Nov 2020 00:16:05 +0900
+
 hamonikr-jin-icon-theme (1.1.3) focal; urgency=medium
 
   * update places icons
