@@ -1,3 +1,10 @@
+hamonikr-jin-icon-theme (1.1.5) focal; urgency=medium
+
+  * change symlink
+   - /usr/share/icons/HamoniKR/apps/scalable/system-file-manager.svg
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 22 Jan 2021 14:30:08 +0900
+
 hamonikr-jin-icon-theme (1.1.4) focal; urgency=medium
 
   * added and fixed icons
