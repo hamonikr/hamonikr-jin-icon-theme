@@ -1,4 +1,4 @@
-## hamonikr-jin-icon-theme
+## hamonikr-icons
 
 Desktop Icons for HamoniKR 4.0
 
