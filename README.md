@@ -5,7 +5,7 @@ Desktop Icons for HamoniKR 4.0
 ## Install
 
 ```
-sudo apt install hamonikr-jin-icon-theme
+sudo apt install hamonikr-icons
 ```
 
 ## License
