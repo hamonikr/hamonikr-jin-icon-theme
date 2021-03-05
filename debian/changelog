@@ -1,3 +1,9 @@
+hamonikr-icons (2.0.1) focal; urgency=medium
+
+  * Update cursor theme
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 05 Mar 2021 15:23:56 +0900
+
 hamonikr-icons (2.0.0) focal; urgency=medium
 
   * release for hamonikr-server 2.0
